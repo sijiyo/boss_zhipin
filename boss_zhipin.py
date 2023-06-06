@@ -48,7 +48,7 @@ def xiyu(mpt):
                 else:
                     print('error2')
                     break
-                iii += 1
+                ii += 1
     except:
         print('error1')
 
